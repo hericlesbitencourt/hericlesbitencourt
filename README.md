@@ -31,8 +31,8 @@
 - 💾 Use of Relational Database Management Systems.
 - 👨‍💻 Robust full-stack system design implementation.
 - 📳 Mobile application development using React Native.
-- 🤔 I’m looking for help with what is used in the top tech bussiness and some topics about software architectures 😭;
-- 💬 Ask me about web development, I am happy to help;
+- 🤔 I’m looking for help with what is used in the top tech business and some topics about software architectures 😭;
+- 💬 Ask me almost anything about web development, I'll be happy to help;
 - 📥 How to reach me: hericlesbr@gmail.com
 
 **Languages and Tools:** 
