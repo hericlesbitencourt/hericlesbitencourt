@@ -23,7 +23,7 @@
 **A little about me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/hericlesbitencourt/hericlesbitencourt/61c2fd4c0e2dbcf879e2ef5538c14c25db67dc9a/undraw_developer_activity.svg" />
 
 - 🌱 I’m currently working with Django and ReactJS technologies;
 - 💻 Front-end development using HTML, Javascript, CSS, Bootstrap.
