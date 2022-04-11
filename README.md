@@ -65,6 +65,6 @@
 </p>
 
 <p align="center">
-  <img alt="ViewCount" src="https://visitor-badge.glitch.me/badge?page_id=hericlesbitencourt" />
+  ![](https://komarev.com/ghpvc/?username=hericlesbitencourt&style=flat-square)
 </p>
 
