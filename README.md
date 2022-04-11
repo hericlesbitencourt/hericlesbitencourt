@@ -64,7 +64,5 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=hericlesbitencourt&style=flat-square)
-</p>
+![](https://komarev.com/ghpvc/?username=hericlesbitencourt&style=flat-square)
 
