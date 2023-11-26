@@ -17,7 +17,7 @@
   </a>
 </p>
 
-### I'm a Computer Engineer Student at <a href="http://www.senaicimatec.com.br/en/">SENAI CIMATEC University Center</a> (National Service for Industrial Training) and work full-time as a Software Developer.
+### I'm a Full Stack Software Engineer with a strong focus on continuous learning and growth.
 
 <!-- Talking about you -->
 **A little about me:**
@@ -25,9 +25,9 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/hericlesbitencourt/hericlesbitencourt/61c2fd4c0e2dbcf879e2ef5538c14c25db67dc9a/undraw_developer_activity.svg" />
 
-- 🌱 I’m currently working with Django and ReactJS technologies;
-- 💻 Front-end development using HTML, Javascript, CSS, Bootstrap.
-- 🛠️ Backend development using Flask, Django, NodeJS.
+- 🌱 I’m currently working with Django (and Django REST Framework), FastAPI, and React technologies;
+- 💻 Front-end development using HTML, Javascript, CSS, Bootstrap, React, Vue.js and Angular.
+- 🛠️ Backend development using Flask, FastAPi, Django, NodeJS.
 - 💾 Use of Relational Database Management Systems.
 - 👨‍💻 Robust full-stack system design implementation.
 - 📳 Mobile application development using React Native.
